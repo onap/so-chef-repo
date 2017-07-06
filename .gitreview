@@ -1,5 +1,5 @@
 [gerrit]
 host=gerrit.onap.org
 port=29418
-project=mso/chef-repo.git
+project=so/chef-repo.git
 
