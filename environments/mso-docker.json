@@ -163,6 +163,7 @@
       "mso.infra.customer.id": "21014aa2-526b-11e6-beb8-9e71128cae77",
       "aaiEndpoint": "https://c1.vm1.aai.simpledemo.openecomp.org:8443",
       "aaiAuth": "2630606608347B7124C244AB0FE34F6F",
+      "adaptersNamespace": "http:://org.openecomp.mso",
       "adaptersCompletemsoprocessEndpoint": "http://mso:8080/CompleteMsoProcess",
       "adaptersDbEndpoint": "http://mso:8080/dbadapters/RequestsDbAdapter",
       "catalogDbEndpoint": "http://mso:8080/ecomp/mso/catalog",
