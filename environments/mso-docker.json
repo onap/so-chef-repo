@@ -62,7 +62,8 @@
         "http://c1.vm1.sdnc.simpledemo.openecomp.org:8282/restconf/operations/NBNC-API:",
         "http://c1.vm1.sdnc.simpledemo.openecomp.org:8282/restconf/operations/NORTHBOUND-API:service-topology-operation",
         "http://c1.vm1.sdnc.simpledemo.openecomp.org:8282/restconf/operations/GENERIC-RESOURCE-API:",
-        "http://c1.vm1.sdnc.simpledemo.openecomp.org:8282/restconf/operations/VNFTOPOLOGYAIC-API:"
+        "http://c1.vm1.sdnc.simpledemo.openecomp.org:8282/restconf/operations/VNFTOPOLOGYAIC-API:",
+        "http://c1.vm1.sdnc.simpledemo.openecomp.org:8282/"
       ],
 
       "bpelurl": "http://c1.vm1.mso.simpledemo.openecomp.org:8080/mso/SDNCAdapterCallbackService",
