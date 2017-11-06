@@ -177,6 +177,8 @@
       "adaptersDbAuth": "6B0E6863FB8EE010AB6F191B3C0489437601E81DC7C86305CB92DB98AFC53D74",
       "workflowMessageEndpoint": "http://mso:8080/mso/WorkflowMessage",
       "workflowSdncAdapterCallback": "http://mso:8080/mso/SDNCAdapterCallbackService",
+      "workflowSdncReplicationDelay": "PT5S",
+      "workflowAaiDistributionDelay": "PT30S",
       "msoKey": "07a7159d3bf51a0e53be7a8f89699be7",
       "adaptersPoAuth": "6B0E6863FB8EE010AB6F191B3C0489437601E81DC7C86305CB92DB98AFC53D74",
       "sdncTimeout": "PT5M",
