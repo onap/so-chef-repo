@@ -176,6 +176,7 @@
       "adaptersSdncRestEndpoint": "http://mso:8080/adapters/rest/v1/sdnc",
       "adaptersTenantEndpoint": "http://mso:8080/tenants/TenantAdapter",
       "adaptersDbAuth": "6B0E6863FB8EE010AB6F191B3C0489437601E81DC7C86305CB92DB98AFC53D74",
+      "adaptersWorkflowMessageEndpoint": "http://mso.api.simpledemo.openecomp.org:8080/workflows/messages/message",
       "workflowMessageEndpoint": "http://mso:8080/mso/WorkflowMessage",
       "workflowSdncAdapterCallback": "http://mso:8080/mso/SDNCAdapterCallbackService",
       "workflowSdncReplicationDelay": "PT5S",
