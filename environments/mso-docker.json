@@ -7,12 +7,23 @@
   {
     "mso_config_path": "/etc/mso/config.d/",
 
+    "mso-topology-config":
+    {
+      "msb-server-ip": "172.30.3.34",
+      "msb-server-port": "80"
+    },
+
     "mso-api-handler-infra-config":
     {
       "bpelURL": "http://mso:8080",
       "bpelAuth": "786864AA53D0DCD881AED1154230C0C3058D58B9339D2EFB6193A0F0D82530E1",
       "camundaURL": "http://mso:8080",
       "camundaAuth": "5119D1AF37F671FC01FFAD2151D93EFB2BBB503E879FD07104D024EDDF118FD1"
+    },
+
+    "mso-asdc-controller-config":
+    {
+      "aaiEndpoint": "https://aai.api.simpledemo.openecomp.org:8443",
     },
 
     "asdc-connections":
@@ -140,7 +151,6 @@
       "ueb_consumer_id": "testuser",
       "ueb_topic": "queuetopic",
       "ueb_polling_interval": "30",
-      "ueb_polling_interval": "30",
       "ueb_user": "user",
       "ueb_password": "1ec0d74615d4e4639f991c0590c83b88",
       "bpel_url": "http://localhost:18080",
@@ -198,8 +208,8 @@
       "sdncTimeoutFirewall": "20",
       "callbackRetryAttempts": "30",
       "callbackRetrySleepTime": "1000",
-      "workflowL3ToHigherLayerAddBondingModelName" : "WAN Bonding",
-      "workflowL3ToHigherLayerAddBondingModelVersion" : "2.0"
+      "workflowL3ToHigherLayerAddBondingModelName": "WAN Bonding",
+      "workflowL3ToHigherLayerAddBondingModelVersion": "2.0"
     }
   },
 
