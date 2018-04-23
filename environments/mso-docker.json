@@ -218,6 +218,14 @@
       "sdncTimeoutFirewall": "20",
       "callbackRetryAttempts": "30",
       "callbackRetrySleepTime": "1000",
+      "appcTopicRead": "APPC-LCM-READ",
+      "appcTopicReadTimeout": "360000",
+      "appcClientResponseTimeout": "360000",
+      "appcTopicWrite": "APPC-LCM-WRITE",
+      "appcPoolMembers": "10.0.11.1:3904",
+      "appcClientKey": "",
+      "appcClientSecret": "",
+      "appcService": "ueb",
       "workflowL3ToHigherLayerAddBondingModelName": "WAN Bonding",
       "workflowL3ToHigherLayerAddBondingModelVersion": "2.0"
     }
