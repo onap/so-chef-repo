@@ -228,6 +228,7 @@
       "appcClientKey": "VIlbtVl6YLhNUrtU",
       "appcClientSecret": "64AG2hF4pYeG2pq7CT6XwUOT",
       "appcClientService": "ueb",
+      "sdncSiSvcTypes": "PORT-MIRROR,PPROBE",
       "workflowL3ToHigherLayerAddBondingModelName": "WAN Bonding",
       "workflowL3ToHigherLayerAddBondingModelVersion": "2.0"
     }
