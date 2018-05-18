@@ -230,7 +230,8 @@
       "appcClientService": "ueb",
       "sdncSiSvcTypes": "PORT-MIRROR,PPROBE",
       "workflowL3ToHigherLayerAddBondingModelName": "WAN Bonding",
-      "workflowL3ToHigherLayerAddBondingModelVersion": "2.0"
+      "workflowL3ToHigherLayerAddBondingModelVersion": "2.0",
+      "msoDefaultCloudOwnerId": "att-aic"
     }
   },
 
