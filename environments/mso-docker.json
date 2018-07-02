@@ -231,7 +231,9 @@
       "sdncSiSvcTypes": "PORT-MIRROR,PPROBE",
       "workflowL3ToHigherLayerAddBondingModelName": "WAN Bonding",
       "workflowL3ToHigherLayerAddBondingModelVersion": "2.0",
-      "msoDefaultCloudOwnerId": "att-aic"
+      "msoDefaultCloudOwnerId": "att-aic",
+      "dmaapHost" : "10.42.111.36",
+      "dmaapPort" : "8904"
     }
   },
 
