@@ -16,6 +16,24 @@
       "revId": "94f82a97d20ffd638a72326ff994b87572e7dcd4",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a9dcd25_3d9f8205",
+        "filename": "environments/mso-docker.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 2789
+      },
+      "writtenOn": "2018-07-18T13:34:01Z",
+      "side": 1,
+      "message": "Seshu, this is a docker configuration file that is read when so container is restarting. The chef-repo project is a part of docker-config repo.",
+      "parentUuid": "1a9dcd25_5d036e73",
+      "revId": "94f82a97d20ffd638a72326ff994b87572e7dcd4",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
     }
   ]
 }
