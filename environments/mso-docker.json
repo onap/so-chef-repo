@@ -21,7 +21,8 @@
       "camundaAuth": "5119D1AF37F671FC01FFAD2151D93EFB2BBB503E879FD07104D024EDDF118FD1",
       "aaiEndpoint": "https://aai.api.simpledemo.onap.org:8443",
       "aaiAuth": "2630606608347B7124C244AB0FE34F6F",
-      "msoKey": "07a7159d3bf51a0e53be7a8f89699be7"
+      "msoKey": "07a7159d3bf51a0e53be7a8f89699be7",
+	  "extApiEndpoint": "http://nbi.onap:8080/nbi/api/v3"
     },
 
     "mso-asdc-controller-config":
@@ -231,7 +232,8 @@
       "sdncSiSvcTypes": "PORT-MIRROR,PPROBE",
       "workflowL3ToHigherLayerAddBondingModelName": "WAN Bonding",
       "workflowL3ToHigherLayerAddBondingModelVersion": "2.0",
-      "msoDefaultCloudOwnerId": "att-aic"
+      "msoDefaultCloudOwnerId": "att-aic",
+	  "extApiEndpoint": "http://nbi.onap:8080/nbi/api/v3"
     }
   },
 
